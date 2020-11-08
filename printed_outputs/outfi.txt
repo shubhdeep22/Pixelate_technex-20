@@ -1,0 +1,831 @@
+C:\Users\shubh\PycharmProjects\pixelate1\venv\Scripts\python.exe "F:/PycharmProjects/practice series/motion1.py"
+----------------------------Going to: 24 --------------------------------
+Bot at: 4 3
+Corners: [[243. 155.]
+ [243. 132.]
+ [267. 133.]
+ [266. 156.]]
+bot: [254.75 144.  ]
+shape: 300 304
+next: [270.  212.8]
+Corners: [[243. 155.]
+ [243. 132.]
+ [267. 133.]
+ [266. 156.]]
+Corners: [[243. 155.]
+ [243. 132.]
+ [267. 133.]
+ [266. 156.]]
+Angle: 105.04074599647772
+left
+Corners: [[243. 155.]
+ [243. 132.]
+ [267. 133.]
+ [266. 156.]]
+Corners: [[243. 155.]
+ [243. 132.]
+ [267. 133.]
+ [266. 156.]]
+Angle: 105.04074599647772
+left
+Corners: [[243. 155.]
+ [243. 132.]
+ [266. 132.]
+ [266. 156.]]
+Corners: [[243. 155.]
+ [243. 132.]
+ [266. 132.]
+ [266. 156.]]
+Angle: 105.19463253226301
+left
+Corners: [[244. 157.]
+ [242. 134.]
+ [264. 132.]
+ [266. 156.]]
+Corners: [[244. 157.]
+ [242. 134.]
+ [264. 132.]
+ [266. 156.]]
+Angle: 100.67961177410098
+left
+Corners: [[250. 164.]
+ [241. 144.]
+ [262. 135.]
+ [271. 155.]]
+Corners: [[250. 164.]
+ [241. 144.]
+ [262. 135.]
+ [271. 155.]]
+Angle: 79.31290922120797
+left
+Corners: [[263. 169.]
+ [245. 156.]
+ [258. 138.]
+ [276. 152.]]
+Corners: [[263. 169.]
+ [245. 156.]
+ [258. 138.]
+ [276. 152.]]
+Angle: 46.56843079625299
+left
+Corners: [[274. 170.]
+ [252. 164.]
+ [258. 142.]
+ [280. 148.]]
+Corners: [[274. 170.]
+ [252. 164.]
+ [258. 142.]
+ [280. 148.]]
+Angle: 19.293163181057
+left
+Corners: [[285. 165.]
+ [263. 169.]
+ [259. 146.]
+ [282. 143.]]
+Corners: [[285. 165.]
+ [263. 169.]
+ [259. 146.]
+ [282. 143.]]
+Angle: -10.02877298403467
+right
+Corners: [[289. 163.]
+ [268. 170.]
+ [260. 148.]
+ [282. 141.]]
+Corners: [[289. 163.]
+ [268. 170.]
+ [260. 148.]
+ [282. 141.]]
+Angle: -22.400295253329904
+right
+Corners: [[279. 170.]
+ [257. 168.]
+ [259. 145.]
+ [282. 147.]]
+Corners: [[279. 170.]
+ [257. 168.]
+ [259. 145.]
+ [282. 147.]]
+Angle: 8.212591300134768
+FORWARD
+Stop
+Corners: [[265. 186.]
+ [244. 177.]
+ [253. 156.]
+ [274. 165.]]
+Corners: [[265. 186.]
+ [244. 177.]
+ [253. 156.]
+ [274. 166.]]
+Corners: [[265. 186.]
+ [244. 177.]
+ [253. 156.]
+ [274. 166.]]
+Angle: 39.07593019732722
+left
+Corners: [[267. 187.]
+ [245. 179.]
+ [253. 158.]
+ [274. 165.]]
+Corners: [[267. 187.]
+ [245. 179.]
+ [253. 158.]
+ [274. 165.]]
+Angle: 31.85202555532816
+left
+Corners: [[275. 184.]
+ [252. 183.]
+ [253. 160.]
+ [276. 161.]]
+Corners: [[275. 184.]
+ [252. 183.]
+ [253. 160.]
+ [276. 161.]]
+Angle: 10.860945082326475
+left
+Corners: [[284. 177.]
+ [263. 185.]
+ [255. 163.]
+ [276. 156.]]
+Corners: [[284. 177.]
+ [263. 185.]
+ [255. 163.]
+ [276. 156.]]
+Angle: -20.191449325713048
+right
+Corners: [[286. 174.]
+ [266. 184.]
+ [256. 164.]
+ [275. 153.]]
+Corners: [[286. 174.]
+ [266. 184.]
+ [256. 164.]
+ [275. 153.]]
+Angle: -28.635922363323267
+right
+Corners: [[279. 181.]
+ [256. 184.]
+ [253. 162.]
+ [276. 159.]]
+Corners: [[279. 181.]
+ [256. 184.]
+ [253. 162.]
+ [276. 159.]]
+Angle: -2.234324945928361
+FORWARD
+Stop
+Corners: [[269. 200.]
+ [247. 196.]
+ [251. 173.]
+ [273. 177.]]
+Corners: [[269. 200.]
+ [246. 195.]
+ [251. 173.]
+ [273. 177.]]
+Corners: [[269. 200.]
+ [246. 195.]
+ [251. 173.]
+ [273. 177.]]
+Angle: 30.99129935398531
+left
+Corners: [[270. 201.]
+ [248. 198.]
+ [250. 175.]
+ [273. 177.]]
+Corners: [[270. 201.]
+ [248. 198.]
+ [250. 175.]
+ [273. 177.]]
+Angle: 28.406477418279117
+left
+Corners: [[280. 194.]
+ [258. 200.]
+ [252. 178.]
+ [274. 172.]]
+Corners: [[280. 194.]
+ [258. 200.]
+ [252. 178.]
+ [274. 172.]]
+Angle: -6.7696067246614335
+FORWARD
+Stop
+Corners: [[293. 199.]
+ [274. 211.]
+ [262. 192.]
+ [281. 180.]]
+Corners: [[293. 200.]
+ [275. 212.]
+ [262. 192.]
+ [281. 180.]]
+Corners: [[293. 200.]
+ [275. 212.]
+ [262. 192.]
+ [281. 180.]]
+Angle: -55.756348588174454
+right
+Corners: [[291. 203.]
+ [270. 212.]
+ [261. 191.]
+ [282. 182.]]
+Corners: [[291. 203.]
+ [270. 212.]
+ [261. 191.]
+ [282. 182.]]
+Angle: -44.01501920809777
+right
+Corners: [[284. 209.]
+ [262. 211.]
+ [260. 188.]
+ [282. 186.]]
+Corners: [[284. 209.]
+ [262. 211.]
+ [260. 188.]
+ [282. 186.]]
+Angle: -12.9380506594205
+right
+Corners: [[272. 214.]
+ [251. 206.]
+ [258. 185.]
+ [280. 192.]]
+Corners: [[272. 214.]
+ [251. 206.]
+ [258. 185.]
+ [280. 192.]]
+Angle: 39.321334693539214
+left
+Corners: [[266. 215.]
+ [246. 203.]
+ [258. 184.]
+ [278. 196.]]
+Corners: [[266. 215.]
+ [246. 203.]
+ [258. 184.]
+ [278. 196.]]
+Angle: 63.33481912864203
+left
+Corners: [[275. 214.]
+ [253. 209.]
+ [258. 187.]
+ [280. 191.]]
+Corners: [[275. 214.]
+ [253. 209.]
+ [258. 187.]
+ [280. 191.]]
+Angle: 27.861858882786517
+left
+Corners: [[287. 208.]
+ [264. 213.]
+ [259. 191.]
+ [281. 185.]]
+Corners: [[287. 208.]
+ [264. 213.]
+ [259. 191.]
+ [281. 185.]]
+Angle: -26.106582169666268
+right
+Corners: [[291. 204.]
+ [270. 214.]
+ [261. 192.]
+ [281. 183.]]
+Corners: [[291. 204.]
+ [270. 214.]
+ [261. 192.]
+ [281. 183.]]
+Angle: -47.050584548860414
+right
+Corners: [[283. 212.]
+ [260. 213.]
+ [259. 190.]
+ [282. 189.]]
+Corners: [[283. 212.]
+ [260. 213.]
+ [259. 190.]
+ [282. 189.]]
+Angle: -7.337272981788293
+FORWARD
+Stop
+Corners: [[271. 230.]
+ [249. 223.]
+ [256. 201.]
+ [278. 207.]]
+Corners: [[272. 230.]
+ [249. 223.]
+ [255. 202.]
+ [278. 207.]]
+Corners: [[272. 230.]
+ [249. 223.]
+ [255. 202.]
+ [278. 207.]]
+Angle: 127.24262721262212
+left
+Corners: [[274. 230.]
+ [252. 226.]
+ [255. 203.]
+ [278. 206.]]
+Corners: [[274. 230.]
+ [252. 226.]
+ [255. 203.]
+ [278. 206.]]
+Angle: 132.84029740210082
+left
+Corners: [[282. 225.]
+ [260. 229.]
+ [256. 205.]
+ [279. 202.]]
+Corners: [[282. 225.]
+ [260. 229.]
+ [256. 205.]
+ [279. 202.]]
+Angle: 155.62696265500358
+left
+Corners: [[289. 217.]
+ [269. 228.]
+ [259. 208.]
+ [278. 197.]]
+Corners: [[289. 217.]
+ [269. 228.]
+ [259. 208.]
+ [278. 197.]]
+Angle: -114.29481508340587
+right
+Corners: [[290. 216.]
+ [271. 228.]
+ [259. 208.]
+ [278. 196.]]
+Corners: [[290. 216.]
+ [271. 228.]
+ [259. 208.]
+ [278. 196.]]
+Angle: -110.93940009246248
+right
+Corners: [[284. 224.]
+ [262. 229.]
+ [257. 206.]
+ [279. 201.]]
+Corners: [[284. 224.]
+ [262. 229.]
+ [257. 206.]
+ [279. 201.]]
+Angle: -179.55153263768696
+right
+Corners: [[275. 230.]
+ [252. 226.]
+ [255. 204.]
+ [279. 207.]]
+Corners: [[275. 230.]
+ [252. 226.]
+ [255. 204.]
+ [279. 207.]]
+Angle: 139.68281742738094
+left
+Corners: [[270. 232.]
+ [248. 225.]
+ [256. 203.]
+ [277. 210.]]
+Corners: [[270. 232.]
+ [248. 225.]
+ [256. 203.]
+ [277. 210.]]
+Angle: 140.67580847436554
+left
+Corners: [[278. 230.]
+ [255. 229.]
+ [255. 206.]
+ [279. 207.]]
+Corners: [[278. 230.]
+ [255. 229.]
+ [255. 206.]
+ [279. 207.]]
+Angle: 150.56049746968068
+left
+Corners: [[286. 224.]
+ [265. 231.]
+ [257. 209.]
+ [278. 201.]]
+Corners: [[286. 224.]
+ [265. 231.]
+ [257. 209.]
+ [278. 201.]]
+Angle: -175.76955002093038
+right
+Corners: [[288. 220.]
+ [267. 230.]
+ [258. 209.]
+ [278. 199.]]
+Corners: [[288. 220.]
+ [267. 230.]
+ [258. 209.]
+ [278. 199.]]
+Angle: -147.26160337660497
+right
+Corners: [[280. 228.]
+ [258. 230.]
+ [256. 206.]
+ [279. 205.]]
+Corners: [[280. 228.]
+ [258. 230.]
+ [256. 206.]
+ [279. 205.]]
+Angle: 156.12194281044196
+left
+Corners: [[277. 231.]
+ [254. 229.]
+ [255. 206.]
+ [278. 207.]]
+Corners: [[277. 231.]
+ [254. 229.]
+ [255. 206.]
+ [278. 207.]]
+Angle: 146.18343344291304
+left
+Corners: [[285. 225.]
+ [264. 232.]
+ [257. 209.]
+ [279. 203.]]
+Corners: [[285. 225.]
+ [264. 232.]
+ [257. 209.]
+ [279. 203.]]
+Angle: -179.65620381288016
+right
+Corners: [[286. 224.]
+ [264. 231.]
+ [257. 209.]
+ [279. 202.]]
+Corners: [[286. 224.]
+ [264. 231.]
+ [257. 209.]
+ [279. 202.]]
+Angle: -175.67128251115204
+right
+Corners: [[278. 230.]
+ [254. 229.]
+ [255. 206.]
+ [279. 208.]]
+Corners: [[278. 230.]
+ [254. 229.]
+ [255. 206.]
+ [279. 208.]]
+Angle: 149.96993933332416
+left
+Corners: [[274. 233.]
+ [251. 229.]
+ [255. 206.]
+ [278. 210.]]
+Corners: [[274. 233.]
+ [251. 229.]
+ [255. 206.]
+ [278. 210.]]
+Angle: 150.5597148922428
+left
+Corners: [[283. 228.]
+ [260. 233.]
+ [256. 210.]
+ [278. 205.]]
+Corners: [[283. 228.]
+ [260. 233.]
+ [256. 210.]
+ [278. 205.]]
+Angle: 160.9193779810746
+left
+Corners: [[290. 220.]
+ [271. 232.]
+ [259. 213.]
+ [278. 201.]]
+Corners: [[290. 220.]
+ [271. 232.]
+ [259. 213.]
+ [278. 201.]]
+Angle: -161.78546484646333
+right
+Corners: [[292. 216.]
+ [274. 231.]
+ [260. 213.]
+ [277. 199.]]
+Corners: [[292. 216.]
+ [274. 231.]
+ [260. 213.]
+ [277. 199.]]
+Angle: -150.2331890922862
+right
+Corners: [[288. 224.]
+ [268. 234.]
+ [258. 212.]
+ [279. 203.]]
+Corners: [[288. 224.]
+ [268. 234.]
+ [258. 212.]
+ [279. 203.]]
+Angle: -172.4771256148836
+right
+Corners: [[278. 233.]
+ [255. 232.]
+ [256. 209.]
+ [279. 210.]]
+Corners: [[278. 233.]
+ [255. 232.]
+ [256. 209.]
+ [279. 210.]]
+Angle: 162.47669048788592
+left
+Corners: [[274. 236.]
+ [251. 232.]
+ [255. 209.]
+ [278. 213.]]
+Corners: [[274. 236.]
+ [251. 232.]
+ [255. 209.]
+ [278. 213.]]
+Angle: 160.39343594729868
+left
+Corners: [[283. 231.]
+ [261. 236.]
+ [256. 213.]
+ [279. 208.]]
+Corners: [[283. 231.]
+ [261. 236.]
+ [256. 213.]
+ [279. 208.]]
+Angle: 168.66313060485848
+left
+Corners: [[289. 225.]
+ [269. 236.]
+ [258. 216.]
+ [279. 205.]]
+Corners: [[289. 225.]
+ [269. 236.]
+ [258. 216.]
+ [279. 205.]]
+Angle: 180.0
+left
+Corners: [[294. 214.]
+ [281. 233.]
+ [262. 219.]
+ [275. 201.]]
+Corners: [[294. 214.]
+ [281. 233.]
+ [262. 219.]
+ [275. 201.]]
+Angle: -171.98470088258384
+right
+Corners: [[294. 210.]
+ [284. 231.]
+ [264. 219.]
+ [275. 199.]]
+Corners: [[294. 210.]
+ [284. 231.]
+ [264. 219.]
+ [275. 199.]]
+Angle: -161.91776830169218
+right
+Corners: [[292. 223.]
+ [274. 236.]
+ [261. 217.]
+ [279. 204.]]
+Corners: [[292. 223.]
+ [274. 236.]
+ [261. 217.]
+ [279. 204.]]
+Angle: -172.39271843436933
+right
+Corners: [[285. 233.]
+ [263. 237.]
+ [258. 215.]
+ [280. 209.]]
+Corners: [[285. 233.]
+ [263. 237.]
+ [258. 215.]
+ [280. 209.]]
+Angle: 180.0
+left
+Corners: [[282. 236.]
+ [260. 238.]
+ [257. 215.]
+ [280. 213.]]
+Corners: [[282. 236.]
+ [260. 238.]
+ [257. 215.]
+ [280. 213.]]
+Angle: 173.99074113680607
+left
+Corners: [[290. 229.]
+ [269. 239.]
+ [259. 218.]
+ [280. 208.]]
+Corners: [[290. 229.]
+ [269. 239.]
+ [259. 218.]
+ [280. 208.]]
+Angle: 180.0
+left
+Corners: [[294. 219.]
+ [280. 236.]
+ [263. 221.]
+ [277. 204.]]
+Corners: [[294. 219.]
+ [280. 236.]
+ [263. 221.]
+ [277. 204.]]
+Angle: -178.93360775792326
+right
+Corners: [[295. 214.]
+ [284. 233.]
+ [264. 221.]
+ [276. 202.]]
+Corners: [[295. 214.]
+ [284. 233.]
+ [264. 221.]
+ [276. 202.]]
+Angle: -173.54878850429958
+right
+Corners: [[293. 225.]
+ [274. 239.]
+ [261. 219.]
+ [280. 206.]]
+Corners: [[293. 225.]
+ [274. 239.]
+ [261. 219.]
+ [280. 206.]]
+Angle: -177.94169821449483
+right
+Corners: [[284. 236.]
+ [261. 239.]
+ [258. 217.]
+ [281. 213.]]
+Corners: [[284. 236.]
+ [261. 239.]
+ [258. 217.]
+ [281. 213.]]
+Angle: 180.0
+left
+Corners: [[279. 240.]
+ [256. 238.]
+ [258. 215.]
+ [281. 217.]]
+Corners: [[279. 240.]
+ [256. 238.]
+ [258. 215.]
+ [281. 217.]]
+Angle: 179.23426283136502
+left
+Corners: [[281. 244.]
+ [258. 244.]
+ [258. 220.]
+ [281. 220.]]
+Corners: [[281. 244.]
+ [258. 244.]
+ [258. 220.]
+ [281. 220.]]
+Angle: 178.59880154564743
+left
+Corners: [[281. 262.]
+ [259. 263.]
+ [257. 240.]
+ [280. 238.]]
+Corners: [[281. 262.]
+ [259. 263.]
+ [257. 240.]
+ [280. 238.]]
+Angle: 176.57138986417996
+left
+Corners: [[289. 259.]
+ [267. 267.]
+ [259. 245.]
+ [281. 237.]]
+Corners: [[289. 259.]
+ [267. 267.]
+ [259. 245.]
+ [281. 237.]]
+Angle: 180.0
+left
+Corners: [[295. 249.]
+ [281. 266.]
+ [264. 251.]
+ [279. 234.]]
+Corners: [[295. 249.]
+ [281. 266.]
+ [264. 251.]
+ [279. 234.]]
+Angle: 180.0
+left
+Corners: [[298. 236.]
+ [292. 259.]
+ [270. 252.]
+ [276. 230.]]
+Corners: [[298. 236.]
+ [292. 259.]
+ [270. 252.]
+ [276. 230.]]
+Angle: 180.0
+left
+Corners: [[295. 226.]
+ [298. 250.]
+ [275. 251.]
+ [273. 228.]]
+Corners: [[295. 226.]
+ [298. 250.]
+ [275. 251.]
+ [273. 228.]]
+Angle: 180.0
+left
+Traceback (most recent call last):
+  File "F:/PycharmProjects/practice series/motion1.py", line 123, in <module>
+    goto(p)
+  File "F:/PycharmProjects/practice series/motion1.py", line 80, in goto
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 61, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 56, in align
+    align(z)
+  File "F:/PycharmProjects/practice series/motion1.py", line 41, in align
+    bot_center = getCentroid(img)
+  File "F:/PycharmProjects/practice series/motion1.py", line 28, in getCentroid
+    corners =getCorners(img)
+  File "F:/PycharmProjects/practice series/motion1.py", line 16, in getCorners
+    if(len(corners[0][0])==0):
+IndexError: list index out of range
+Select a ROI and then press SPACE or ENTER button!
+Cancel the selection process by pressing c button!
+[ WARN:0] global C:\projects\opencv-python\opencv\modules\videoio\src\cap_msmf.cpp (674) SourceReaderCB::~SourceReaderCB terminating async callback
+
+Process finished with exit code 1

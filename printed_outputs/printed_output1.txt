@@ -1,0 +1,224 @@
+C:\Users\shubh\PycharmProjects\pixelate1\venv\Scripts\python.exe "F:/PycharmProjects/practice series/motion2.py"
+[[ 7.  1.  2.  1. 12.]
+ [ 2.  1.  4.  2.  3.]
+ [14.  2.  1.  3.  7.]
+ [ 4.  3.  3.  3.  7.]
+ [15.  1.  4.  2. 13.]]
+Shortest distance is 99.0
+And the path is [25, 24, 19, 14, 9, 4, 3, 2, 7, 6, 11]
+[24 19 14  9  4  3  2  7  6 11]
+----------------------------Going to: 24 --------------------------------
+Bot at: 4 3
+Corners: [[268. 149.]
+ [268. 126.]
+ [290. 126.]
+ [290. 149.]]
+bot: [279.  137.5]
+shape: 305 306
+next: [274.5 214.2]
+Corners: [[268. 148.]
+ [268. 126.]
+ [290. 126.]
+ [290. 149.]]
+Corners: [[268. 149.]
+ [267. 126.]
+ [290. 126.]
+ [291. 149.]]
+Angle: 86.69713310996592
+left
+Corners: [[270. 151.]
+ [265. 130.]
+ [288. 126.]
+ [292. 148.]]
+Corners: [[271. 152.]
+ [265. 131.]
+ [287. 126.]
+ [292. 148.]]
+Angle: 76.03025671401585
+left
+Corners: [[274. 155.]
+ [264. 136.]
+ [285. 126.]
+ [294. 147.]]
+Corners: [[274. 155.]
+ [264. 136.]
+ [285. 126.]
+ [294. 147.]]
+Angle: 64.51854022376152
+left
+Corners: [[280. 157.]
+ [266. 141.]
+ [282. 127.]
+ [297. 143.]]
+Corners: [[280. 157.]
+ [266. 141.]
+ [282. 127.]
+ [297. 143.]]
+Angle: 45.20938450285892
+left
+Corners: [[288. 158.]
+ [268. 146.]
+ [279. 128.]
+ [299. 140.]]
+Corners: [[288. 158.]
+ [268. 146.]
+ [279. 128.]
+ [299. 140.]]
+Angle: 24.237616873434725
+left
+Corners: [[294. 156.]
+ [272. 149.]
+ [279. 128.]
+ [300. 135.]]
+Corners: [[294. 156.]
+ [272. 149.]
+ [279. 128.]
+ [300. 135.]]
+Angle: 6.70537931882566
+FORWARD
+Stop
+Corners: [[290. 165.]
+ [268. 157.]
+ [276. 137.]
+ [297. 144.]]
+distance======= 63.98409958731936
+Corners: [[290. 165.]
+ [268. 157.]
+ [276. 137.]
+ [297. 144.]]
+Corners: [[290. 165.]
+ [268. 157.]
+ [276. 137.]
+ [297. 144.]]
+Angle: 11.032297603808454
+left
+Corners: [[292. 165.]
+ [270. 160.]
+ [275. 138.]
+ [297. 143.]]
+Corners: [[292. 165.]
+ [270. 160.]
+ [275. 138.]
+ [297. 143.]]
+Angle: 4.638138779938656
+FORWARD
+Stop
+Corners: [[292. 173.]
+ [269. 168.]
+ [274. 146.]
+ [296. 151.]]
+distance======= 55.31864513886798
+Corners: [[292. 173.]
+ [269. 168.]
+ [274. 146.]
+ [296. 151.]]
+Corners: [[292. 173.]
+ [269. 168.]
+ [274. 146.]
+ [296. 151.]]
+Angle: 1.7288646353186565
+FORWARD
+Stop
+Corners: [[289. 181.]
+ [267. 176.]
+ [272. 153.]
+ [294. 159.]]
+distance======= 47.33183389643805
+Corners: [[289. 181.]
+ [267. 175.]
+ [272. 153.]
+ [294. 159.]]
+Corners: [[289. 181.]
+ [267. 175.]
+ [272. 153.]
+ [294. 159.]]
+Angle: 5.562579203440706
+FORWARD
+Stop
+Corners: [[286. 191.]
+ [264. 184.]
+ [270. 163.]
+ [292. 169.]]
+distance======= 37.61319582274287
+Corners: [[286. 191.]
+ [264. 184.]
+ [270. 163.]
+ [292. 169.]]
+Corners: [[286. 191.]
+ [264. 184.]
+ [270. 163.]
+ [292. 169.]]
+Angle: 9.92091137858864
+FORWARD
+Stop
+Corners: [[282. 201.]
+ [260. 194.]
+ [268. 172.]
+ [289. 180.]]
+distance======= 27.45113840990936
+Corners: [[282. 201.]
+ [260. 194.]
+ [268. 172.]
+ [289. 180.]]
+Corners: [[282. 201.]
+ [260. 194.]
+ [268. 172.]
+ [289. 180.]]
+Angle: 17.922229570864534
+left
+Corners: [[285. 200.]
+ [262. 196.]
+ [266. 174.]
+ [288. 178.]]
+Corners: [[285. 200.]
+ [262. 196.]
+ [266. 174.]
+ [288. 178.]]
+Angle: 6.188856846578513
+FORWARD
+Stop
+Corners: [[284. 209.]
+ [261. 205.]
+ [265. 183.]
+ [287. 187.]]
+distance======= 18.201716951980124
+Corners: [[284. 209.]
+ [261. 205.]
+ [265. 183.]
+ [287. 187.]]
+Corners: [[284. 209.]
+ [261. 205.]
+ [265. 183.]
+ [287. 187.]]
+Angle: 8.556484235017038
+FORWARD
+Stop
+Corners: [[281. 220.]
+ [258. 215.]
+ [264. 192.]
+ [285. 198.]]
+Traceback (most recent call last):
+  File "F:/PycharmProjects/practice series/motion2.py", line 219, in <module>
+    move(path)
+  File "F:/PycharmProjects/practice series/motion2.py", line 191, in move
+    goto(p)
+  File "F:/PycharmProjects/practice series/motion2.py", line 92, in goto
+    bot_center = getCentroid(img)
+  File "F:/PycharmProjects/practice series/motion2.py", line 39, in getCentroid
+    x=x+corners[i][0]
+TypeError: 'NoneType' object is not subscriptable
+Select a ROI and then press SPACE or ENTER button!
+Cancel the selection process by pressing c button!
+Select a ROI and then press SPACE or ENTER button!
+Cancel the selection process by pressing c button!
+Select a ROI and then press SPACE or ENTER button!
+Cancel the selection process by pressing c button!
+Select a ROI and then press SPACE or ENTER button!
+Cancel the selection process by pressing c button!
+Select a ROI and then press SPACE or ENTER button!
+Cancel the selection process by pressing c button!
+Select a ROI and then press SPACE or ENTER button!
+Cancel the selection process by pressing c button!
+[ WARN:0] global C:\projects\opencv-python\opencv\modules\videoio\src\cap_msmf.cpp (674) SourceReaderCB::~SourceReaderCB terminating async callback
+
+Process finished with exit code 1

@@ -1,0 +1,119 @@
+C:\Users\shubh\PycharmProjects\pixelate1\venv\Scripts\python.exe "F:/PycharmProjects/practice series/motion2.py"
+[[14  1  2  1 12]
+ [ 2  1  4  2  3]
+ [ 7  2  1  3  5]
+ [ 4  3  3  3  4]
+ [15  1  3  2 11]]
+---------------Start: 15
+---------------End: 1
+Shortest distance is 99
+And the path is [15, 10, 9, 4, 3, 2, 1]
+[10  9  4  3  2]
+----------------------------Going to: 10 --------------------------------
+Bot to go at at: 1 4
+ignore
+[256. 150.]
+Corners: [[256. 150.]
+ [255. 128.]
+ [279. 128.]
+ [279. 151.]]
+bot: [139.25 267.25]
+shape: 296 297
+next: [ 88.8 267.3]
+ignore
+[256. 150.]
+Corners: [[256. 150.]
+ [255. 128.]
+ [279. 128.]
+ [279. 151.]]
+[267.25 139.25]
+ignore
+[256. 150.]
+Corners: [[256. 150.]
+ [255. 128.]
+ [279. 128.]
+ [279. 151.]]
+Angle: 38.17091344739559
+left
+ignore
+[256. 150.]
+Corners: [[256. 150.]
+ [255. 128.]
+ [279. 128.]
+ [279. 150.]]
+[267.25 139.  ]
+ignore
+[256. 150.]
+Corners: [[256. 150.]
+ [255. 128.]
+ [279. 128.]
+ [279. 150.]]
+Angle: 35.733075481706216
+left
+ignore
+[256. 150.]
+Corners: [[256. 150.]
+ [255. 128.]
+ [279. 128.]
+ [279. 151.]]
+[267.25 139.25]
+ignore
+[256. 150.]
+Corners: [[256. 150.]
+ [255. 128.]
+ [279. 128.]
+ [279. 151.]]
+Angle: 38.17091344739559
+left
+ignore
+[257. 152.]
+Corners: [[257. 152.]
+ [254. 130.]
+ [276. 127.]
+ [280. 150.]]
+[266.75 139.75]
+ignore
+[258. 153.]
+Corners: [[258. 153.]
+ [253. 132.]
+ [276. 127.]
+ [280. 150.]]
+Angle: 27.88095267206289
+left
+ignore
+[263. 157.]
+Corners: [[263. 157.]
+ [253. 138.]
+ [273. 128.]
+ [284. 147.]]
+[268.25 142.5 ]
+ignore
+[265. 158.]
+Corners: [[265. 158.]
+ [253. 139.]
+ [273. 128.]
+ [284. 147.]]
+Angle: 4.750830234538942
+FORWARD
+Stop
+Traceback (most recent call last):
+  File "F:/PycharmProjects/practice series/motion2.py", line 232, in <module>
+    move(path)
+  File "F:/PycharmProjects/practice series/motion2.py", line 198, in move
+    goto(p)
+  File "F:/PycharmProjects/practice series/motion2.py", line 99, in goto
+    dist = getDistance(bot_center, z)
+  File "F:/PycharmProjects/practice series/motion2.py", line 48, in getDistance
+    return math.sqrt((x[0]-y[0])**2+(x[1]-y[1])**2)
+TypeError: only size-1 arrays can be converted to Python scalars
+ignore
+[256. 164.]
+Corners: [[256. 164.]
+ [244. 145.]
+ [264. 133.]
+ [275. 154.]]
+[ WARN:0] global C:\projects\opencv-python\opencv\modules\videoio\src\cap_msmf.cpp (674) SourceReaderCB::~SourceReaderCB terminating async callback
+Select a ROI and then press SPACE or ENTER button!
+Cancel the selection process by pressing c button!
+
+Process finished with exit code 1
